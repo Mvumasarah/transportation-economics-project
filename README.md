@@ -13,11 +13,8 @@ At what ridership level does fixed-route motor bus service become more
 cost-efficient than demand-responsive transit in rural markets?
 
 ## Key Finding
-The break-even ridership threshold — where predicted average cost per trip 
-converges across modes — is estimated at **1,240 annual passenger trips**. 
-The median rural DR agency serves approximately 18,857 trips annually, 
-well above this threshold, suggesting most rural agencies operating DRT 
-may be doing so at a cost disadvantage relative to fixed-route service.
+The break-even ridership threshold, where predicted average cost per trip 
+converges across modes.
 
 ## Data Source
 Federal Transit Administration — National Transit Database (NTD)  
@@ -70,15 +67,7 @@ Place them in the same folder as the notebooks before running.
 ## How to Run
 1. Download the raw NTD files as described above
 2. Place them in the same folder as the notebooks
-3. Run notebooks in this order:
-   - `ntd_panel_builder.ipynb` — generates `ntd_panel_2018_2024.csv`
-   - `ntd_regression_breakeven.ipynb` — runs all regressions
-   - `ntd_fe_stats_map.ipynb` — generates fixed effects results and map
+3. Run notebook
 
 ## Methods Summary
-- **Cost-function framework:** Log-linear OLS, estimated separately by mode
-- **Regression A:** ln(OE) ~ ln(VRH) + Year FE — supply-side scale elasticity
-- **Regression B:** ln(AC) ~ ln(UPT) + Year FE — average cost scale elasticity
-- **Agency FE specification:** Within-estimator robustness check
-- **COVID robustness:** Full 2018–2024 sample with pandemic indicator variable
-- **Break-even derivation:** Analytical solution from estimated coefficients
+
