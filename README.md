@@ -63,6 +63,7 @@ Place them in the same folder as the notebooks before running.
 | `ntd_exploratory_plots.png` | Boxplots and log-log scatterplots by mode (2024) |
 | `ntd_trends_2018_2024.png` | Time-series of median economic metrics by mode, 2018–2024 |
 | `ntd_agency_map.png` | Geographic distribution of agencies in sample |
+| `table1_descriptive_stats.csv` | Descriptive statistics |
 
 ## How to Run
 1. Download the raw NTD files as described above
