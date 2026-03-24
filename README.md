@@ -1,5 +1,6 @@
 # Rural Transit Cost Efficiency: DRT vs Fixed-Route
-**Transportation Economics Project | Spring 2026**
+**Transportation Economics Project | Spring 2026**  
+
 **Author: Sarah Mvuma**
 
 ## Overview
