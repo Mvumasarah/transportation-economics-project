@@ -6,7 +6,7 @@
 This repository contains the analysis code, cleaned dataset, and output figures 
 for a study comparing the economic efficiency of demand-responsive transit (DRT) 
 and fixed-route motor bus service in rural and low-density regions using National 
-Transit Database (NTD) data (2018–2024).  
+Transit Database (NTD) data (2018-2024).  
 
 ## Project Objective
 This study investigates the economic efficiency of two predominant transit 
@@ -41,11 +41,11 @@ The break-even ridership threshold, where predicted average cost per trip
 converges across modes.
 
 ## Data Source
-Federal Transit Administration — National Transit Database (NTD)  
-Annual mode-level data, 2018–2024  
+Federal Transit Administration - National Transit Database (NTD)  
+Annual mode-level data, 2018-2024  
 Download from: https://www.transit.dot.gov/ntd/ntd-data
 
-**Files downloaded for each year (2018–2024):**
+**Files downloaded for each year (2018-2024):**
 - Annual Database - Service Data
 - Annual Database - Operating Expenses
 - Annual Database - Fare Revenues
