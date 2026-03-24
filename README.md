@@ -19,7 +19,7 @@ passenger trip than fixed-route service.
 Using a seven-year panel of rural National Transit Database reporters (2018–2024), 
 this study applies a cost-function econometric framework to:
 
-1. Estimate and compare scale elasticities for each mode — measuring how 
+1. Estimate and compare scale elasticities for each mode - measuring how 
    average cost responds to changes in ridership
 2. Identify the ridership threshold at which fixed-route service becomes 
    more cost-efficient than demand-responsive service on a per-trip basis
@@ -28,7 +28,7 @@ this study applies a cost-function econometric framework to:
 
 The central contribution is the derivation of a break-even productivity 
 threshold — the annual ridership level at which predicted average cost per 
-trip converges across modes — which provides actionable guidance for rural 
+trip converges across modes - which provides actionable guidance for rural 
 transit agencies and state departments of transportation allocating limited 
 operating subsidies.
 
@@ -46,9 +46,9 @@ Annual mode-level data, 2018–2024
 Download from: https://www.transit.dot.gov/ntd/ntd-data
 
 **Files downloaded for each year (2018–2024):**
-- Annual Database — Service Data
-- Annual Database — Operating Expenses
-- Annual Database — Fare Revenues
+- Annual Database - Service Data
+- Annual Database - Operating Expenses
+- Annual Database - Fare Revenues
 
 **To replicate:** Go to the NTD data page, select each year, check Service, 
 Operating Expenses, and Fare Revenues, and download the Excel files. 
