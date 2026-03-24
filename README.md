@@ -27,7 +27,7 @@ this study applies a cost-function econometric framework to:
    and COVID-19 pandemic disruptions
 
 The central contribution is the derivation of a break-even productivity 
-threshold — the annual ridership level at which predicted average cost per 
+threshold - the annual ridership level at which predicted average cost per 
 trip converges across modes - which provides actionable guidance for rural 
 transit agencies and state departments of transportation allocating limited 
 operating subsidies.
