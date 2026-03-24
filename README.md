@@ -25,5 +25,5 @@ Downloaded from: https://www.transit.dot.gov/ntd/ntd-data
 | ntd_fe_stats_map.ipynb | Agency fixed effects, descriptive statistics table, geographic map |
 
 ## Key Finding
-The break-even ridership threshold — where predicted average cost per trip 
-converges across modes — .
+The break-even ridership threshold, where predicted average cost per trip 
+converges across modes.
