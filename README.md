@@ -6,7 +6,31 @@
 This repository contains the analysis code, cleaned dataset, and output figures 
 for a study comparing the economic efficiency of demand-responsive transit (DRT) 
 and fixed-route motor bus service in rural and low-density regions using National 
-Transit Database (NTD) data (2018–2024).
+Transit Database (NTD) data (2018–2024).  
+
+## Project Objective
+This study investigates the economic efficiency of two predominant transit 
+service types in rural and low-density markets: demand-responsive transit (DRT) 
+and fixed-route motor bus (MB) service. While DRT is widely deployed in rural 
+areas to improve geographic coverage and serve dispersed populations, national 
+data consistently show that it operates at substantially higher cost per 
+passenger trip than fixed-route service.
+
+Using a seven-year panel of rural National Transit Database reporters (2018–2024), 
+this study applies a cost-function econometric framework to:
+
+1. Estimate and compare scale elasticities for each mode — measuring how 
+   average cost responds to changes in ridership
+2. Identify the ridership threshold at which fixed-route service becomes 
+   more cost-efficient than demand-responsive service on a per-trip basis
+3. Assess the robustness of these findings to agency-level heterogeneity 
+   and COVID-19 pandemic disruptions
+
+The central contribution is the derivation of a break-even productivity 
+threshold — the annual ridership level at which predicted average cost per 
+trip converges across modes — which provides actionable guidance for rural 
+transit agencies and state departments of transportation allocating limited 
+operating subsidies.
 
 ## Research Question
 At what ridership level does fixed-route motor bus service become more 
