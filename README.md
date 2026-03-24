@@ -26,6 +26,4 @@ Downloaded from: https://www.transit.dot.gov/ntd/ntd-data
 
 ## Key Finding
 The break-even ridership threshold — where predicted average cost per trip 
-converges across modes — is estimated at **1,240 annual passenger trips**. 
-The median rural DR agency serves approximately 18,857 trips annually, 
-well above this threshold.
+converges across modes — .
